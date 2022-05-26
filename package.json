@@ -1,0 +1,22 @@
+{
+  "name": "vite-plugin-dynamicImport",
+  "version": "0.0.1",
+  "description": "Vite plugin to handle your resources. For example, @import().then()",
+  "main": "index.js",
+  "module": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pascal.lcc/vite-plugin-dynamicImport.git"
+  },
+  "keywords": [
+    "vite",
+    "vite-plugin",
+    "import"
+  ],
+  "author": "LCC <pascual@ruten.co.jp>",
+  "license": "MIT",
+  "homepage": "https://github.com/pascal-lcc/vite-plugin-dynamicImport#readme"
+}
